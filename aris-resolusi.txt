@@ -1,0 +1,4 @@
+Resolusi Aris
+- Membuat Web Portofolio
+- Posting di Github
+- Belajar JavaScript
